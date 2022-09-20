@@ -38,7 +38,7 @@
 <p>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=igorssc&show_icons=true&theme=github_dark" alt="igorssc stats"/>
 
-<br /><br />
+<br />
 
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssc&layout=compact&theme=github_dark" alt="igorssc's most languages"/>
 </p>

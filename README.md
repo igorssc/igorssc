@@ -1,6 +1,6 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/igorssc/0fa5985aa173cd6a95d69c2bc90e7f1a/raw/bd9e44f73aec6daa2d0fde16185271fda4c792c6/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor Santos</h1>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorssc&color=yellow" alt="Profile views" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorssc&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer focused on acquiring more and more knowledge
 

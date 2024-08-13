@@ -1,8 +1,8 @@
 <!-- <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/igorssc/0fa5985aa173cd6a95d69c2bc90e7f1a/raw/bd9e44f73aec6daa2d0fde16185271fda4c792c6/githubcard.svg"/> -->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor Santos</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igorssc&style=for-the-badge&color=blue" alt="Profile views" /> </p>
-
-<br />
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=igorssc&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
 
 - 🔥 Developer focused on acquiring more and more knowledge
 
@@ -36,9 +36,7 @@
 
 <p>
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=igorssc&show_icons=true&theme=github_dark" alt="igorssc stats"/>
-
-<br />
-
+  <br />
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorssc&layout=compact&theme=github_dark" alt="igorssc's most languages"/>
 </p>
 

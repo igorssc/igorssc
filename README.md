@@ -2,6 +2,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Igor Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=igorssc&style=for-the-badge&color=blue" alt="Profile views" /> </p>
 
+<br />
+
 - 🔥 Developer focused on acquiring more and more knowledge
 
 - 💼 I work at [Emcash](https://emcash.com.br/)

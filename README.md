@@ -6,7 +6,7 @@
 
 - 🔥 Developer focused on acquiring more and more knowledge
 
-- 💼 I work at [Emcash](https://emcash.com.br/)
+- 💼 I work at <a href="https://emcash.com.br/" target="_blank">Emcash</a>
 
 - 👨🏻‍💻 Experience with programming since 2016
 
